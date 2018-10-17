@@ -1,6 +1,6 @@
 # API Specifications
 
-Provides Open API Specification 3 definitions for Nexmo APIs.
+Provides Open API Specification 3 definitions for Nexmo APIs and it is great.
 
 These definitions provide a single point of truth that can be used end-to-end can we used to:
 
